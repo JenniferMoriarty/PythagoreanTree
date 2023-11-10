@@ -22,7 +22,7 @@ def tree(ax, ay, bx, by, depth=0):
         dx = bx - ax
         dy = #ADD CODE HERE
 
-        # find top left cornerwalk 
+        # find top left corner
         x3 = bx - dy
         y3 = by - dx
 
